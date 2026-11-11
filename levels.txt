@@ -1,0 +1,11 @@
+# Trade of the Day levels (SIM). Times are US/Eastern.
+date=2026-11-11
+instrument=ES
+direction=long
+entry=7600.00
+stop=7586.00
+target=7625.00
+cancelPrice=7584.00
+cancelTime=11:00
+flatTime=15:55
+quantity=1
