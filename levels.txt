@@ -1,13 +1,4 @@
 # Trade of the Day levels (SIM). Times are US/Eastern.
-date=2026-11-12
-instrument=GC
-direction=short
-entryMode=retest
-entry=3960.00
-retestBuffer=2
-stop=3976.00
-target=3930.00
-cancelPrice=3974.00
-cancelTime=11:00
-flatTime=15:55
-quantity=1
+date=2026-11-13
+instrument=NG
+direction=none
