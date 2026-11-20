@@ -1,13 +1,13 @@
 # Trade of the Day levels (SIM). Times are US/Eastern.
-date=2026-11-19
+date=2026-11-20
 instrument=NQ
-direction=long
+direction=short
 entryMode=retest
-entry=27700.00
+entry=26180.00
 retestBuffer=8
-stop=27620.00
-target=27825.00
-cancelPrice=27630.00
-cancelTime=11:00
+stop=26315.00
+target=25975.00
+cancelPrice=26300.00
+cancelTime=09:55
 flatTime=15:55
 quantity=1
