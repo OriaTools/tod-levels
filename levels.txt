@@ -1,13 +1,13 @@
 # Trade of the Day levels (SIM). Times are US/Eastern.
-date=2026-11-23
-instrument=CL
+date=2026-11-24
+instrument=SIL
 direction=short
 entryMode=retest
-entry=82.05
-retestBuffer=0.1
-stop=82.50
-target=81.30
-cancelPrice=82.45
-cancelTime=11:00
+entry=42.40
+retestBuffer=0.05
+stop=42.85
+target=41.60
+cancelPrice=42.80
+cancelTime=09:55
 flatTime=15:55
 quantity=1
